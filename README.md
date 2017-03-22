@@ -1,7 +1,7 @@
 # CS110-Binary_Search
 A class project for Imperative Problem Solving (CS110).
 
-In this project the goal to read in an ordered (ascending) set of numbers from a text file and implement a recursive binary search on that set.
+In this project the goal was to read in an ordered (ascending) set of numbers from a text file and implement a recursive binary search on that set.
 
 This project required:
   + Reading a set of numbers into an array from a text file (test.txt)
